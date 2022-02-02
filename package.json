@@ -9,7 +9,9 @@
     "start": "rescript build -w"
   },
   "keywords": [
-    "rescript"
+    "rescript",
+    "picomatch",
+    "glob"
   ],
   "contributors": [
     "Roman Pominov"
