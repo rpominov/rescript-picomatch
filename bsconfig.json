@@ -1,6 +1,6 @@
 {
   "name": "rescript-picomatch",
-  "version": "0.0.1",
+  "version": "0.1.1",
   "namespace": false,
   "sources": {
     "dir": ".",

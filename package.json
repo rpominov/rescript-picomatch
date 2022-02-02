@@ -1,7 +1,7 @@
 {
   "name": "rescript-picomatch",
-  "version": "0.1.0",
-  "description": "Rescrip project template",
+  "version": "0.1.1",
+  "description": "ReScript bindings for picomatch",
   "main": "./Main.bs.js",
   "scripts": {
     "build": "rescript",
