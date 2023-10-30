@@ -21,7 +21,7 @@
   "repository": "github:rpominov/rescript-picomatch",
   "license": "MIT",
   "dependencies": {
-    "picomatch": "^2.3.1",
+    "picomatch": "^3.0.1",
     "rescript": "^9.1.4"
   }
 }
